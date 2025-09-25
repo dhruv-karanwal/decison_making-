@@ -1,0 +1,10 @@
+pytesseract
+pdf2image
+python-docx
+pillow
+langchain
+langchain-community
+pypdf
+google-generativeai
+fastapi
+uvicorn
